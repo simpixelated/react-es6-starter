@@ -1,7 +1,5 @@
-# react-es6-starter
-Boilerplate React starter kit with ES 6/2015, ESLint, and Webpack.
-
-Uses `npm` as a build script (interfacing with webpack, etc.). To see a list of commands: `npm run`.
+# What is this?
+There are many, many [great React starter kits](https://github.com/markerikson/react-redux-links/blob/master/boilerplates-and-starter-kits.md), but this one is **mine**. It includes the standard client-side libraries I would use on any new project: React, Moment, Lodash, npm, Babel (for ES6 support), Webpack, and ESLint. It also includes the ESLint rules I use for enforcing best practices when writing code using React/JSX, ES6, and Lodash. It also includes my standard Webpack config, which has auto-reloading, Babel transpilation, and CSS modules. It also uses `npm` as a build script (interfacing with webpack, etc.). To see a list of commands: `npm run`.
 
 ## Tooling
 
