@@ -4,6 +4,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased](https://github.com/simpixelated/react-es6-starter/compare/v0.0.1-beta2...HEAD)
 
+### Added
+- index files for React app
+
 ## [0.0.1-beta2](https://github.com/simpixelated/react-es6-starter/releases/tag/v0.0.1-beta2) - 2016-04-12
 
 ### Added
